@@ -10,3 +10,6 @@ This project is about the UN sustainable development goal â€œLife Below Water.â€
 
 | 10 Heauristics | Analysis | Severity Rating 0-5 |
 |---|---|---|
+|1.Visibility of System Status:
+Design notifies user in a reasonable amount of time when their actions have a consequence | Bad: There is no indication which page on the submenu you just clicked on, just the main item on the menu is highlighted. | 2 
+
