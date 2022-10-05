@@ -10,6 +10,8 @@ This project is about the UN sustainable development goal â€œLife Below Water.â€
 ### Seafood Watch  https://www.seafoodwatch.org/ 
 <br> This is a website run by the Monterey Bay Aquarium in California, which provides individuals, businesses, and governments with information about how sustainable different types of seafood are. The website is updated once a month to account for any changes in sustainability.
 
+![Seafood Watch Screenshot] ()
+
 | 10 Heauristics | Analysis | Severity Rating 0-5 |
 |---|---|---|
 |1. Visibility of System Status: <br> Design notifies user in a reasonable amount of time when their actions have a consequence | Bad: There is no indication which page on the submenu you just clicked on, just the main item on the menu is highlighted. | 2 |
@@ -40,36 +42,6 @@ This project is about the UN sustainable development goal â€œLife Below Water.â€
 |8.Aesthetic and Minimalist Design: <br> Focus on the most important information being available to users | Bad: Menu is a difficult to navigate because the format is slightly different for all the submenus, as they include large image tiles |4|
 |9.Help Users with Errors:<br>Error messages are easy to understand and give user a solution|Good: Message will pop up if there are no items for the userâ€™s search|0|
 |10.Help and Documentation:<br>Extra instruction to complete tasks are found when users need it | Good:  some words/phrases within the text are clearly underlined and in blue to indicate that it is a link. When pressed a new page with more in depth information pops up.<br>Bad: no other way to find links besides finding them in the text|1|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
