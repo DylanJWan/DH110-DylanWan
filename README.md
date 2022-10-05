@@ -10,5 +10,8 @@ This project is about the UN sustainable development goal “Life Below Water.�
 
 | 10 Heauristics | Analysis | Severity Rating 0-5 |
 |---|---|---|
-|1.Visibility of System Status: <br> Design notifies user in a reasonable amount of time when their actions have a consequence | Bad: There is no indication which page on the submenu you just clicked on, just the main item on the menu is highlighted. | 2 
+|1. Visibility of System Status: <br> Design notifies user in a reasonable amount of time when their actions have a consequence | Bad: There is no indication which page on the submenu you just clicked on, just the main item on the menu is highlighted. | 2 |
+|2. Match Between System and Real World: <br> Use of simple instead of professional/industry standard terms | Bad: Aquaculture jargon like “purse seines” and “weirs” is necessary to understand how a fish is sourced. Must also be typed into the filter if you wish to search for that specific method used. | 4 |
+
+
 
