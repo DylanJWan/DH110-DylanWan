@@ -37,6 +37,18 @@ This project is about the UN sustainable development goal “Life Below Water.�
 | 4.Consistency and Standards: <br> Terms and phrases used perform similar functions as other related websites | Good: Page names are easy to understand. It is finding them that make navigating the site more difficult | 1 |
 | 5.Error Prevention: <br> Design makes mistakes, whether unintentional or intentional difficult | Good: Multiple back buttons are available on screen whenever a link is clicked | 1 |
 | 6.Recognition Rather than Recall:<br>Tools to navigate or use the site are easy to find | Bad: There are pages which are only accessible through links from other pages, for example, the “Where to buy MSC Seafood” page can only be found on the home page which does not have its own menu. <br> Bad: seafood brands/retailers listed can't be clicked and don’t have logos pictured, meaning you’d have to look the names up individually to recognize them <br> Bad: Anchor links look inconsistent, some have you clicking text, while other have you click circles to navigate the page <br> Good: Apart from those, pages will have breadcrumbs, making it easier to trace how you got to a specific page. |5|
+|7.Flexibility and Efficiency of Use: <br> Shortcuts and customization made available to users who frequent the site often | Bad: There are no keyboard shortcuts or ways to customize your viewing experience | 3|
+|8.Aesthetic and Minimalist Design: <br> Focus on the most important information being available to users | Bad: Menu is a difficult to navigate because the format is slightly different for all the submenus, as they include large image tiles |4|
+|9.Help Users with Errors:<br>Error messages are easy to understand and give user a solution|Good: Message will pop up if there are no items for the user’s search|0|
+|10.Help and Documentation:<br>Extra instruction to complete tasks are found when users need it | Good:  some words/phrases within the text are clearly underlined and in blue to indicate that it is a link. When pressed a new page with more in depth information pops up.|Bad: no other way to find links besides finding them in the text|1|
+
+
+
+
+
+
+
+
 
 
 
