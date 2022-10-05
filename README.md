@@ -10,7 +10,7 @@ This project is about the UN sustainable development goal â€œLife Below Water.â€
 ### Seafood Watch  https://www.seafoodwatch.org/ 
 <br> This is a website run by the Monterey Bay Aquarium in California, which provides individuals, businesses, and governments with information about how sustainable different types of seafood are. The website is updated once a month to account for any changes in sustainability.
 
-![Seafood Watch Screenshot] ()
+![Seafood Watch Screenshot] (https://github.com/DylanJWan/DH110-DylanWan/issues/1#issue-1397446065)
 
 | 10 Heauristics | Analysis | Severity Rating 0-5 |
 |---|---|---|
