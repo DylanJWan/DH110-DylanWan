@@ -29,6 +29,27 @@ This project is about the UN sustainable development goal “Life Below Water.�
 ### Marine Stewardship Council  https://www.msc.org/en-us
 <br> The Marine Stewardship Council (MSC) is a nonprofit organization that works with fisheries, scientists, and other nonprofits to end overfishing. Products in the US and Canada with an MSC label are certified sustainable by the MSC Fisheries Standard and Chain of Custody Standard. It also shows you which fisheries are MSC certified and where to buy them in stores.
 
+| 10 Heuristics | Analysis | Severity Rating 0-5 |
+|---|---|---|
+|1.Visibility of System Status: <br> Design notifies user in a reasonable amount of time when their actions have a consequence | Bad: nothing on the main menu is highlighted or indicated to show you which page you're on | 3 |
+| 2.Match Between System and Real World: <br> Use of simple instead of professional/industry standard terms | Good: There is not much jargon present, making the pages very approachable when reading | 1 |
+| 3.User Control and Freedom:<br> Easy to undo a user’s action if done by accident | Good: Easy to navigate through the breadcrumbs if a link is accidentally pressed <br> Bad: Some links open up new pages while others do not, making the website slightly awkward to navigate because of inconsistent expectations <br> Bad: No x button to delete a search, must highlight then delete, or hold the delete button | 2 |
+| 4.Consistency and Standards: <br> Terms and phrases used perform similar functions as other related websites | Good: Page names are easy to understand. It is finding them that make navigating the site more difficult | 1 |
+| 5.Error Prevention: <br> Design makes mistakes, whether unintentional or intentional difficult | Good: Multiple back buttons are available on screen whenever a link is clicked | 1 |
+| 6.Recognition Rather than Recall:<br>Tools to navigate or use the site are easy to find | Bad: There are pages which are only accessible through links from other pages, for example, the “Where to buy MSC Seafood” page can only be found on the home page which does not have its own menu. <br> Bad: seafood brands/retailers listed can't be clicked and don’t have logos pictured, meaning you’d have to look the names up individually to recognize them <br> Bad: Anchor links look inconsistent, some have you clicking text, while other have you click circles to navigate the page <br> Good: Apart from those, pages will have breadcrumbs, making it easier to trace how you got to a specific page. |5|
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
