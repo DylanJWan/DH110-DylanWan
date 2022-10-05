@@ -40,7 +40,7 @@ This project is about the UN sustainable development goal “Life Below Water.�
 |7.Flexibility and Efficiency of Use: <br> Shortcuts and customization made available to users who frequent the site often | Bad: There are no keyboard shortcuts or ways to customize your viewing experience | 3|
 |8.Aesthetic and Minimalist Design: <br> Focus on the most important information being available to users | Bad: Menu is a difficult to navigate because the format is slightly different for all the submenus, as they include large image tiles |4|
 |9.Help Users with Errors:<br>Error messages are easy to understand and give user a solution|Good: Message will pop up if there are no items for the user’s search|0|
-|10.Help and Documentation:<br>Extra instruction to complete tasks are found when users need it | Good:  some words/phrases within the text are clearly underlined and in blue to indicate that it is a link. When pressed a new page with more in depth information pops up.|Bad: no other way to find links besides finding them in the text|1|
+|10.Help and Documentation:<br>Extra instruction to complete tasks are found when users need it | Good:  some words/phrases within the text are clearly underlined and in blue to indicate that it is a link. When pressed a new page with more in depth information pops up.<br>Bad: no other way to find links besides finding them in the text|1|
 
 
 
