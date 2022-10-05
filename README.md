@@ -6,7 +6,8 @@
 
 This project is about the UN sustainable development goal “Life Below Water.” Many people, especially those who don’t live near the coast, have trouble finding ways they can positively impact the ocean. Because of this, I will be focusing on individual consumption of seafood, and how this task can be made easier. In order to do this, I will design a website/app that includes sustainability information about a wide variety of seafood, as well as information about what brands and where to buy them. This would combine what SeafoodWatch and MSC can do on their respective websites. However, in addition to combining them and possibly more relevant information, I’ll be making the interface more intuitive and approachable for consumers.
 
-1. Seafood Watch  https://www.seafoodwatch.org/ 
+# First Website
+## Seafood Watch  https://www.seafoodwatch.org/ 
 <br> This is a website run by the Monterey Bay Aquarium in California, which provides individuals, businesses, and governments with information about how sustainable different types of seafood are. The website is updated once a month to account for any changes in sustainability.
 
 
@@ -25,6 +26,9 @@ This project is about the UN sustainable development goal “Life Below Water.�
 | 10.Help and Documentation: <br> Extra instruction to complete tasks are found when users need it | Good: some words/phrases within the text are clearly underlined and in blue to indicate that it is a link. When pressed a new page with more in depth information pops up. <br> Bad: These links could be listed somewhere else too to make them easier to find | 2 |
 
 
+
+2.
+The Marine Stewardship Council (MSC) is a nonprofit organization that works with fisheries, scientists, and other nonprofits to end overfishing. Products in the US and Canada with an MSC label are certified sustainable by the MSC Fisheries Standard and Chain of Custody Standard. It also shows you which fisheries are MSC certified and where to buy them in stores.
 
 
 
