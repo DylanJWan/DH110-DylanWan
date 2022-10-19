@@ -31,10 +31,10 @@ For this project I will be employing contextual inquiry in order to get user ins
 ## Interview
 ### Contextual Inquiry
 #### Script can be found [here]( https://docs.google.com/document/d/1taRKfZp3HiXjlxu6ijHSexmpDp-hKpGJyeS7tLhyEgc/edit?usp=sharing )
-#### Video of session can be found here 
-Part 1: https://youtu.be/y_hgi74AoSA
+#### Video of session can be found below 
+Part 1 [here](https://youtu.be/y_hgi74AoSA)
 
-Part 2: https://youtu.be/2uW8Wn_Xau4
+Part 2 [here](https://youtu.be/2uW8Wn_Xau4)
 #### Transcript of session can be found [here](https://docs.google.com/document/d/18lXfWbrFdW_mZqZLWIDspRLAUE6ZpPk1rcjUpFmgROo/edit?usp=sharing)
 
 ## Insights/Observations from interview
