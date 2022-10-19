@@ -15,5 +15,15 @@ The most common current solutions I’ve found that people take when on a missio
 ### What is(are) the limitation(s) that possibly would be improved?
 There is no site/app containing a synthesis of information about what, how, and where to get sustainable seafood. A lot of the sustainability websites are hard to navigate or do not have enough information to help a person with a plan to buy a specific sustainable seafood product. I aim to streamline the process of finding these products for users.
 
+## Step02: Target users
+### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)
+This program will be primarily focussed on American consumers as other countries may not have the same sustainability regulations/labeling, possibly making the app/website not applicable in their area. Users must also have access to the internet to use the site because the information will constantly update depending on changes in seafood availability. User’s who can buy their own food are preferred as their usage of the site could directly pertain to their own eating habits.
+
+### In which context (where, why, under which conditions) would the users do that activity? 
+Anyone living in or visiting the US can use the program if they are interested in purchasing seafood. There will be a location feature that can make the distance from products available to view. Because the program will be an app/website, the information provided will be available 24/7.
+
+### What would the users usually do in order to complete that activity? 
+User’s will need to input any one or all of the following information to the program: species of seafood, name of one of the sustainability labels, and current general location. The combination of these factors, depending on how many are used, will determine the effectiveness of finding sustainable seafood currently available to the user.
+
 
 
