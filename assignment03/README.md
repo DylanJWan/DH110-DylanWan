@@ -39,6 +39,25 @@ Part 2:
 #### Transcript of session can be found here
 https://docs.google.com/document/d/18lXfWbrFdW_mZqZLWIDspRLAUE6ZpPk1rcjUpFmgROo/edit?usp=sharing
 
+## Insights/Observations from interview
+
+### 1. Participant says that eating sustainably boosts self esteem 
+Speaker 1 3:53  
+Why do you think eating sustainably is important?
+
+Speaker 2  3:58  
+Because I think that climate change is already like a problem. And it's only going to get worse. So it helps to ease my conscience to not eat as much meat products and I also thought it would be kind of a easy switch because I mostly eat fish anyway. 
+
+### 2. Participant is more likely to notice bad/warning signs than signs indicating good
+Speaker 1  6:00  
+you know, or just sustainable? 
+
+Speaker 2  6:01  
+Oh, um, if like, I usually don't go to the dining halls that have the little red, or, like, I don't pick the meals that have a little red thing, which is like, it usually ends up being like the meat dishes anyways. So it's usually fine, but I usually try to pick the green ones.
+
+
+
+
 
 
 
