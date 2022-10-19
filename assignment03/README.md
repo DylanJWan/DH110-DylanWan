@@ -30,6 +30,14 @@ For this project I will be employing contextual inquiry in order to get user ins
 
 ## Interview
 ### Contextual Inquiry
-#### Script can be found (https://docs.google.com/document/d/1taRKfZp3HiXjlxu6ijHSexmpDp-hKpGJyeS7tLhyEgc/edit?usp=sharing)
+#### Script can be found here 
+(https://docs.google.com/document/d/1taRKfZp3HiXjlxu6ijHSexmpDp-hKpGJyeS7tLhyEgc/edit?usp=sharing)
+#### Video of session can be found here 
+Part 1: https://youtu.be/y_hgi74AoSA
+Part 2: 
+#### Transcript of session can be found here
+https://docs.google.com/document/d/18lXfWbrFdW_mZqZLWIDspRLAUE6ZpPk1rcjUpFmgROo/edit?usp=sharing
+
+
 
 
