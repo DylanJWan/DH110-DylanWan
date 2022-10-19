@@ -66,7 +66,7 @@ So you think text would be easier? Rather than a logo or label on the actual pro
 Speaker 2  2:36  
 I guess. If I'm looking at it online, then I would expect there to be text but like, if I'm looking at the actual packaging, I would expect like, like a logo.
 
-### Eating sustainably may be difficult depending on region and socioeconomic status 
+### 4. Eating sustainably may be difficult depending on region and socioeconomic status 
 Speaker 1  7:18  
 And what do you think? Do you think reducing the amount of meat in your diet and would be hard for other people who do who maybe don't live in LA or go to UCLA?
 
