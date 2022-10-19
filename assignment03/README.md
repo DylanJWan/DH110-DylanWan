@@ -35,8 +35,7 @@ For this project I will be employing contextual inquiry in order to get user ins
 Part 1: https://youtu.be/y_hgi74AoSA
 
 Part 2: https://youtu.be/2uW8Wn_Xau4
-#### Transcript of session can be found here
-[here](https://docs.google.com/document/d/18lXfWbrFdW_mZqZLWIDspRLAUE6ZpPk1rcjUpFmgROo/edit?usp=sharing)
+#### Transcript of session can be found [here](https://docs.google.com/document/d/18lXfWbrFdW_mZqZLWIDspRLAUE6ZpPk1rcjUpFmgROo/edit?usp=sharing)
 
 ## Insights/Observations from interview
 
