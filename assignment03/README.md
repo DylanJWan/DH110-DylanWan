@@ -35,7 +35,7 @@ For this project I will be employing contextual inquiry in order to get user ins
 #### Video of session can be found here 
 Part 1: https://youtu.be/y_hgi74AoSA
 
-Part 2: 
+Part 2: https://youtu.be/2uW8Wn_Xau4
 #### Transcript of session can be found here
 https://docs.google.com/document/d/18lXfWbrFdW_mZqZLWIDspRLAUE6ZpPk1rcjUpFmgROo/edit?usp=sharing
 
@@ -54,6 +54,37 @@ you know, or just sustainable?
 
 Speaker 2  6:01  
 Oh, um, if like, I usually don't go to the dining halls that have the little red, or, like, I don't pick the meals that have a little red thing, which is like, it usually ends up being like the meat dishes anyways. So it's usually fine, but I usually try to pick the green ones.
+
+### 3. Different preferences for view of sustainability info depending on if participant is viewing the product online vs in person 
+Speaker 1  1:58  
+So are you looking for an article that asks if it's sustainable? Are you looking at the little images to see if there's a sustainability label? What are you looking for first?
+
+Speaker 2  2:12  
+I guess I'm just looking for, like, like a, like a website link that like just tells me whether or not it's sustainable, which might be a little bit too much to ask for.
+
+Speaker 1  2:26  
+So you think text would be easier? Rather than a logo or label on the actual product? When you're searching?
+
+Speaker 2  2:36  
+I guess. If I'm looking at it online, then I would expect there to be text but like, if I'm looking at the actual packaging, I would expect like, like a logo.
+
+### Eating sustainably may be difficult depending on region and socioeconomic status 
+Speaker 1  7:18  
+And what do you think? Do you think reducing the amount of meat in your diet and would be hard for other people who do who maybe don't live in LA or go to UCLA?
+
+Speaker 2  7:33  
+Yeah, I definitely think so. Um, especially because, like, culturally, I feel like, American food is pretty like meat based. And then, like, LA like, we have a lot of options, but a lot of places don't. And then UCLA does pretty good job. So yeah, I think it definitely very hard.
+
+## Reflection
+To my surprise, the aspect of the interview that was the most difficult to execute was the user research, rather than the user testing. I found it somewhat challenging to create compelling questions that would stimulate the subject’s thought process in a complex and productive manner. At certain moments during the interview, I felt that my script did not naturally fit the conversation, which led me to improvise some parts. Although this improvisation required quick thinking and pushed me to go off-script, it also enabled me to further expand my vision and organically develop my ideas. In addition, there were also questions I did not end up asking because the participant had already addressed them in previous sections before I prompted the questions. This was a contributing factor towards my need to improvise and thus presented unexpected challenges. However, the result was cohesive and I believe that the improvisation became more of an asset than an obstacle and assisted me in fully executing my project. 
+
+While the subject was not an expert on the topic of seafood sustainability, she was still adept at using technology and navigating the necessary resources to aid in her search. However, the participant already had a background in sustainable eating, which allowed her to answer the questions pertaining to sustainability rather quickly. If I was to conduct this experiment again, I would change my approach by finding an additional subject that had no background knowledge on the topic of sustainable food or lifestyles. I would then compare their results to my current subjects to see if there are clear discrepancies between a subject with background knowledge versus a subject without. 
+
+Overall, this research helped me uncover the potential importance of interviewing multiple people, in order to see how each individual’s background and experience have a unique impact on the way they navigate the discussion, which will in turn affect the choices I will make when creating the final design of my prototype. The process of design heavily relies on the voices of others and that my final product should incorporate a variety of perspectives, something I will keep in mind for future projects.
+
+
+
+
 
 
 
