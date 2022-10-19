@@ -25,5 +25,11 @@ Anyone living in or visiting the US can use the program if they are interested i
 ### What would the users usually do in order to complete that activity? 
 User’s will need to input any one or all of the following information to the program: species of seafood, name of one of the sustainability labels, and current general location. The combination of these factors, depending on how many are used, will determine the effectiveness of finding sustainable seafood currently available to the user.
 
+## Step03: Pick an qualitative research method
+For this project I will be employing contextual inquiry in order to get user insight. The interview will consist of questions and observation through activities.
+
+## Interview
+### Contextual Inquiry
+#### Script can be found here
 
 
