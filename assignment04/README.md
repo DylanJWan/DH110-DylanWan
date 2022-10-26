@@ -6,3 +6,6 @@ UX storytelling is important to give an audience a more nuanced understanding of
 
 ## Personas and Empathy Maps
 ### Persona 1: Sarah Jean- the nicest teacher you'll ever meet 
+
+
+### Persona 2: Ambitious and responsible teen 
