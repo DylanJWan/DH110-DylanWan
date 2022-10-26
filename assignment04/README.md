@@ -4,6 +4,8 @@
 ## Purpose of UX Storytelling 
 UX storytelling is important to give an audience a more nuanced understanding of my product. By creating realistic and diverse personas, they can better imagine the variety of ways my product can be used. It's also helpful for me, the UX researcher, to focus on specific users, as it can lead to a deeper understanding of their wants and needs. Being less general in this case can actually result in more universal solutions. 
 ### My Design Solutions
+When asked to find something, all the users I tested chose to type in exactly what I asked of them directly into a search bar, instead of just searching for one relevant site and navigating to the answer. Therefore I now plan to implement a very easily accessible search bar on the homepage of my app. That way users who know exactly what product they want can find it.
+
 
 ## Personas and Empathy Maps
 ### Persona 1: Sarah Jean- the nicest teacher you'll ever meet 
