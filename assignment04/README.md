@@ -10,3 +10,7 @@ UX storytelling is important to give an audience a more nuanced understanding of
 ![Empathy Map 1](https://user-images.githubusercontent.com/114602097/197993775-415003ea-51c3-4a7c-be1e-21c2c02e598e.png)
 
 ### Persona 2: Ambitious and responsible teen 
+![Persona 2](https://user-images.githubusercontent.com/114602097/197994003-54ea4d24-9cf0-4bda-a4ee-02fb647a9543.png)
+![Empathy Map 2](https://user-images.githubusercontent.com/114602097/197994042-afcef592-4d21-4b27-836e-7e77468550b2.png)
+
+## Scenarios and Journey Maps
