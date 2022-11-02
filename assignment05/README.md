@@ -13,3 +13,9 @@ Creating a low fidelity prototype is important for this app because it serves as
 ## Wireframe and Wireflow
 ![lofi prototype](https://user-images.githubusercontent.com/114602097/199412517-4a4f118b-f34f-4f39-8799-d19f5beb0bd1.png)
 
+## User Testing: Task 1
+### in progress snapshot
+![task1Progress](https://user-images.githubusercontent.com/114602097/199423026-81d48d54-f931-4f9f-bd88-aa7d624e2a87.jpg)
+
+### task complete
+![task1Complete](https://user-images.githubusercontent.com/114602097/199423098-ed87edf4-e6d2-4430-8917-e290bf1677e6.jpg)
