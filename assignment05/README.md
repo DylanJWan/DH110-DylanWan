@@ -19,7 +19,7 @@ Creating a low fidelity prototype is important for this app because it serves as
 
 ### task complete
 -user successfully completed task
--user comments/confusion in orange
+<br/>-user comments/confusion in orange
 ![task1Complete](https://user-images.githubusercontent.com/114602097/199423098-ed87edf4-e6d2-4430-8917-e290bf1677e6.jpg)
 
 ## User Testing: Task 2- Login, then search for information regarding whether or not a specific seafood product is sustainably caught
@@ -28,7 +28,7 @@ Creating a low fidelity prototype is important for this app because it serves as
 
 ### task complete
 -user successfully completed task
--user comments/confusion in green
+<br/>-user comments/confusion in green
 ![task2Complete](https://user-images.githubusercontent.com/114602097/199423499-4b28657d-ad5d-4441-be01-05d0408a397a.jpg)
 
 ## Reflection + Revision
