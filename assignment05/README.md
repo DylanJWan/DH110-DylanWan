@@ -11,13 +11,15 @@ Creating a low fidelity prototype is important for this app because it serves as
 2. Login, then search for information regarding whether or not a specific seafood product is sustainably caught
 
 ## Wireframe and Wireflow
-![lofi prototype](https://user-images.githubusercontent.com/114602097/199412517-4a4f118b-f34f-4f39-8799-d19f5beb0bd1.png)
+![wireframe and wireflow](https://user-images.githubusercontent.com/114602097/199442770-4800c080-b7b0-4ade-85be-4713ff25b242.png)
 
 ## User Testing: Task 1-  Sign up, then search for a sustainable fish and where it can be purchased 
 ### in progress snapshot
 ![task1Progress](https://user-images.githubusercontent.com/114602097/199423026-81d48d54-f931-4f9f-bd88-aa7d624e2a87.jpg)
 
 ### task complete
+-user successfully completed task
+-user comments/confusion in orange
 ![task1Complete](https://user-images.githubusercontent.com/114602097/199423098-ed87edf4-e6d2-4430-8917-e290bf1677e6.jpg)
 
 ## User Testing: Task 2- Login, then search for information regarding whether or not a specific seafood product is sustainably caught
@@ -25,6 +27,8 @@ Creating a low fidelity prototype is important for this app because it serves as
 ![task2Progress](https://user-images.githubusercontent.com/114602097/199423362-7e8a0531-3c33-46f8-9eb7-240a9ed4a8d8.jpg)
 
 ### task complete
+-user successfully completed task
+-user comments/confusion in green
 ![task2Complete](https://user-images.githubusercontent.com/114602097/199423499-4b28657d-ad5d-4441-be01-05d0408a397a.jpg)
 
 ## Reflection + Revision
