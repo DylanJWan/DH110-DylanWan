@@ -19,3 +19,12 @@ Creating a low fidelity prototype is important for this app because it serves as
 
 ### task complete
 ![task1Complete](https://user-images.githubusercontent.com/114602097/199423098-ed87edf4-e6d2-4430-8917-e290bf1677e6.jpg)
+
+## User Testing: Task 2
+### in progress snapshot
+![task2Progress](https://user-images.githubusercontent.com/114602097/199423362-7e8a0531-3c33-46f8-9eb7-240a9ed4a8d8.jpg)
+
+### task complete
+![task2Complete](https://user-images.githubusercontent.com/114602097/199423499-4b28657d-ad5d-4441-be01-05d0408a397a.jpg)
+
+
