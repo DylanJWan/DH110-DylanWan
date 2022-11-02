@@ -34,11 +34,11 @@ However, there were some questions my test user had going through the process an
 
 
 ### Revised areas
-where to search
+where to search<br/>
 <img width="279" alt="whereToSearch" src="https://user-images.githubusercontent.com/114602097/199440985-ee5eb39a-47cc-41f3-b8f4-e2e2a31b7e2d.png">
-dragging icons
+dragging icons<br/>
 <img width="195" alt="dragIcons" src="https://user-images.githubusercontent.com/114602097/199441147-01311c23-72ad-4538-8372-f1cf3fc4e8b8.png">
-why a profile
+why a profile<br/>
 <img width="461" alt="whyProfile" src="https://user-images.githubusercontent.com/114602097/199441184-1ac01b28-d5b7-43c7-bf8c-55e8b6d14697.png">
 
 
