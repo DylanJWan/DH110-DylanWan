@@ -8,6 +8,11 @@ My project is an app that aims to make eating sustainable seafood more convenien
 ### Layout Grid & Spacing
 <img width="438" alt="layoutGrid" src="https://user-images.githubusercontent.com/114602097/200787731-38a397e3-a9c3-4896-b64b-481bfa6124c8.png">
 
+### Typography
+![type](https://user-images.githubusercontent.com/114602097/200788032-1fb0d72d-0bc2-47a2-9013-4ba60f79ef32.png)
+![typeTest](https://user-images.githubusercontent.com/114602097/200788075-629a7be8-0bee-4ecd-a8ba-fe82cfc64cda.png)
+
+
 
 
 
