@@ -8,7 +8,7 @@ My project is an app that aims to make eating sustainable seafood more convenien
 
 Link to Interface Design page here: https://www.figma.com/file/2NMRCBKpgjmgF5Oir61tzY/Interface-Design-System?node-id=0%3A1
 
-Link to Digitized Wireflow here: https://www.figma.com/file/HrbXkMahZNSF5jhY8k6V8z/Full-Digitized-Wireflow
+Link to Digitized Wireflow here: https://www.figma.com/file/PtoHl60tJo3OVunrRqf6ME/Assignment-5-Lofi-Prototype?node-id=0%3A1
 
 # Design Process
 ### Layout Grid & Spacing
