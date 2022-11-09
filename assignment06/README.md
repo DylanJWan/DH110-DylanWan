@@ -5,11 +5,13 @@
 My project is an app that aims to make eating sustainable seafood more convenient and accessible. The app will provide information on the sustainability levels of fish, what grocery stores near you currently provide that fish, and information on related fish products. The purpose of creating the interface design for the low fidelity prototype is to fully realize and integrate the function of the app with its visuals. By finalizing the colors, typography, shapes, etc., I have created the app’s style and visual language. Testing the interface with users and testing other aspects like color contrast, I’m more assured of its effectiveness as a product.
 
 Link to Interface Design page here: https://www.figma.com/file/2NMRCBKpgjmgF5Oir61tzY/Interface-Design-System?node-id=0%3A1
+
 Link to Digitized Wireflow here: https://www.figma.com/file/HrbXkMahZNSF5jhY8k6V8z/Full-Digitized-Wireflow
 
 # Design Process
 ### Layout Grid & Spacing
 <img width="438" alt="layoutGrid" src="https://user-images.githubusercontent.com/114602097/200787731-38a397e3-a9c3-4896-b64b-481bfa6124c8.png">
+
 ### Layout Grid + Spacing Reasoning
 The layout grid I went with was 18 columns by 35 rows with a gutter of 5. I had a lot of components in the design, so the grid ended up being small for a mobile interface. I made sure the elements of my design either aligned with the square or the center of gutter intersections to keep it looking harmonious. However, there are a few spots that I couldn’t align perfectly as the content I had was also determining the size and shape of elements.
 
