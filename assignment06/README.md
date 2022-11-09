@@ -7,24 +7,24 @@ My project is an app that aims to make eating sustainable seafood more convenien
 Link to Interface Design page here: https://www.figma.com/file/2NMRCBKpgjmgF5Oir61tzY/Interface-Design-System?node-id=0%3A1
 Link to Digitized Wireflow here: https://www.figma.com/file/HrbXkMahZNSF5jhY8k6V8z/Full-Digitized-Wireflow
 
-## Design Process
+# Design Process
 ### Layout Grid & Spacing
 <img width="438" alt="layoutGrid" src="https://user-images.githubusercontent.com/114602097/200787731-38a397e3-a9c3-4896-b64b-481bfa6124c8.png">
 ### Layout Grid + Spacing Reasoning
 The layout grid I went with was 18 columns by 35 rows with a gutter of 5. I had a lot of components in the design, so the grid ended up being small for a mobile interface. I made sure the elements of my design either aligned with the square or the center of gutter intersections to keep it looking harmonious. However, there are a few spots that I couldn’t align perfectly as the content I had was also determining the size and shape of elements.
 
 
-### Typography
+## Typography
 ![type](https://user-images.githubusercontent.com/114602097/200788032-1fb0d72d-0bc2-47a2-9013-4ba60f79ef32.png)
 From left to right, Zen Antique, Outfit, Varela Round
 ![typeTest](https://user-images.githubusercontent.com/114602097/200788075-629a7be8-0bee-4ecd-a8ba-fe82cfc64cda.png)
 
-### Shapes
+## Shapes
 ![cornerRadii](https://user-images.githubusercontent.com/114602097/200788224-a7ce9e9b-76a0-44e2-8d26-c5edd0514a60.png)
 From left to right, corner radius 0, 6, 8
 ![cornerRadiiTest](https://user-images.githubusercontent.com/114602097/200788258-d485cae1-9868-42d2-8b52-cb4cbe5882cd.png)
 
-### Color Palette
+## Color Palette
 ![colorButtons](https://user-images.githubusercontent.com/114602097/200788337-cc037452-384d-40a9-bac7-3ae6eed5d10f.png)
 Left, Light Mode, Right, Dark Mode
 ![lightDarkMode](https://user-images.githubusercontent.com/114602097/200788368-bf3bf942-c43b-4c22-b0ae-ac5dd4c1e412.png)
