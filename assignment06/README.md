@@ -2,7 +2,9 @@
 ### Dylan Wan 11/09/22
 
 ## Description of Project 
-My project is an app that aims to make eating sustainable seafood more convenient and accessible. The app will provide information on the sustainability levels of fish, what grocery stores near you currently provide that fish, and information on related fish products. The purpose of creating the interface design for the low fidelity prototype is to fully realize and integrate the function of the app with its visuals. By finalizing the colors, typography, shapes, etc., I have created the app’s style and visual language. Testing the interface with users and testing other aspects like color contrast, I’m more assured of its effectiveness as a product.
+My project is an app that aims to make eating sustainable seafood more convenient and accessible. The app will provide information on the sustainability levels of fish, what grocery stores near you currently provide that fish, and information on related fish products. The purpose of creating the interface design for the low fidelity prototype is to fully realize and integrate the function of the app with its visuals. By finalizing the colors, typography, shapes, etc., I have created the app’s style and visual language. Testing the interface with users and testing other aspects like color contrast, I’m more assured of its effectiveness as a product. To design the interface, I started with IPhone 13 Pro frames. Step by step I decided on individual elements like typography and shape until I got the final result. All of this was done in Figma.
+
+
 
 Link to Interface Design page here: https://www.figma.com/file/2NMRCBKpgjmgF5Oir61tzY/Interface-Design-System?node-id=0%3A1
 
@@ -41,7 +43,7 @@ Left, Light Mode, Right, Dark Mode
 ### Color Scheme Reasoning
 The color scheme I chose was based around the colors green, yellow, and red. These three were important to choose as because many people already associate them with the meanings of good, okay, and bad, very applicable to how I used them when displaying the sustainability levels of fish. Different shades of blue were also chosen to invoke ideas of the ocean and water, my app being centered around fish. 
 
-## Color Contrast Test
+## Color Contrast Tests
 ![Color Contrast](https://user-images.githubusercontent.com/114602097/200791671-85f06171-6af1-4a35-b772-872fd9784e65.png)
 
 
