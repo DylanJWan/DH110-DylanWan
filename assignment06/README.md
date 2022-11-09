@@ -41,6 +41,9 @@ Left, Light Mode, Right, Dark Mode
 ### Color Scheme Reasoning
 The color scheme I chose was based around the colors green, yellow, and red. These three were important to choose as because many people already associate them with the meanings of good, okay, and bad, very applicable to how I used them when displaying the sustainability levels of fish. Different shades of blue were also chosen to invoke ideas of the ocean and water, my app being centered around fish. 
 
+## Color Contrast Test
+![Color Contrast](https://user-images.githubusercontent.com/114602097/200791671-85f06171-6af1-4a35-b772-872fd9784e65.png)
+
 
 
 ## Impression Testing
