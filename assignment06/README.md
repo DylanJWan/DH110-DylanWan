@@ -23,7 +23,10 @@ From left to right, corner radius 0, 6, 8
 Left, Light Mode, Right, Dark Mode
 ![lightDarkMode](https://user-images.githubusercontent.com/114602097/200788368-bf3bf942-c43b-4c22-b0ae-ac5dd4c1e412.png)
 
+## Impression Testing
+Video of test can be found here: https://youtu.be/u4IL2fkfMJA
+### Findings/Summary
+In the five second test, what stood out to my user was the red, green, and yellow color palette, as well as the image of the fish, which he said felt very realistic and well displayed. Although he didn’t have time to read the contents, he recalled seeing the scientific name of the fish below its image, and his assumptions about the rest of the design were that the red, green, and yellow areas were more information about the fish scientifically or nutritionally. 
 
+When I gave him more time to examine the design afterwards, he understood how the colors represent different levels depending on the region, though not specifically in regards to sustainability. To make this more clear, I will change the header “Search Fish” to “Search Sustainable Fish.” In terms of layout, he thought it was easy to follow and read, and that the colors were appropriate and not too overwhelming. The last thing that he noticed was the other fish at the bottom of the page; making him think the entire interface was likely scrollable, giving information about other fish species broken down in the same red, green, and yellow description boxes, which is what I intended. 
 
-
-https://youtu.be/u4IL2fkfMJA
