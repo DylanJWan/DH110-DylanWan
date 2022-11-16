@@ -14,7 +14,7 @@ My app FishFood aims to help make eating sustainably easy, specifically in regar
 
 
 ### Image of and link to Hifi Prototype
-Link to Hifi Prototype figma file here: 
+Link to Hifi Prototype figma file here: https://www.figma.com/file/rEYxDors9v9tlVVyItcIGo/High-Fidelity-Prototype?node-id=0%3A1&t=BqsqVScqresCrR4o-1
 ![hifi](https://user-images.githubusercontent.com/114602097/202147939-4a2f9e13-c758-42ba-bcb8-e2cdc9c7a667.png)
 
 
