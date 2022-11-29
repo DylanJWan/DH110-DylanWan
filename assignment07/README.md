@@ -23,6 +23,6 @@ Results of the Cognitive Walkthrough here: https://docs.google.com/document/d/1K
 
 My cognitive walkthrough comprised of two participants, first tasked to give their intial thoughts of the homepage. I then gave them the two tasks from  from my user personas for them to complete, which were to "Login > combine "search fish" and "locate store" tasks > search fish sustainability > view fish sustainability > find stores near user that sells it" and "Login > search products > view sustainable products". After the tasks were completed, a final questionaire was given to them to document their experience, leave any notes on how to improve the interface if there were confusing points. 
 
-I found that the cognitive walkthrough was surprinignly 
+I found that the cognitive walkthrough was surprisingly straightforward. Everything went smoothly, although it was nervewracking given this was a very finalized version of my project that was being shown to others for the first time. The feedback I got from their analysis was very helpful, as small design inconsistencies and glitches in the wireflow were pointed out to me which I hadn't noticed before. Some things I would design a little differently given there notes include reworking the points of potential confusion they pointed out, which included buttons with no labels, and my feature of dragging icons. I would also make sure all the search bars are consistent, and also add an opening animation for my app to elicit a stronger first impression.   
 
 
