@@ -20,3 +20,9 @@ Link to Hifi Prototype figma file here: https://www.figma.com/file/rEYxDors9v9tl
 
 ### Cognitive Walkthrough 
 Results of the Cognitive Walkthrough here: https://docs.google.com/document/d/1KK4T9Dd3_QRzLVP8BJrsIvtKyfhLvAt-w5J6aFJXW9s/edit
+
+My cognitive walkthrough comprised of two participants, first tasked to give their intial thoughts of the homepage. I then gave them the two tasks from  from my user personas for them to complete. After the tasks were completed, a final questionaire was given to them to document their experience, leave any notes on how to improve the interface if there were confusing points. 
+
+I found that the cognitive walkthrough was surprinignly 
+
+
