@@ -19,4 +19,4 @@ Link to Hifi Prototype figma file here: https://www.figma.com/file/rEYxDors9v9tl
 
 
 ### Cognitive Walkthrough 
-TBD
+Results of the Cognitive Walkthrough here: https://docs.google.com/document/d/1KK4T9Dd3_QRzLVP8BJrsIvtKyfhLvAt-w5J6aFJXW9s/edit
