@@ -27,6 +27,18 @@ This project is about the UN sustainable development goal “Life Below Water.�
 | 9.Help Users with Errors: <br> Error messages are easy to understand and give user a solution | Good: No results for a search are clearly stated in a large bold font instead of the page just being blank. There is also a message that says to try searching with different terms | 0 |
 | 10.Help and Documentation: <br> Extra instruction to complete tasks are found when users need it | Good: some words/phrases within the text are clearly underlined and in blue to indicate that it is a link. When pressed a new page with more in depth information pops up. <br> Bad: These links could be listed somewhere else too to make them easier to find | 2 |
 
+| 10 Heauristics | Analysis | Severity Rating 0-5 |
+|---|---|---|
+|1. Visibility of System Status | Bad: There is no indication which page on the submenu you just clicked on, just the main item on the menu is highlighted. | 2 |
+|2. Match Between System and Real World | Bad: Aquaculture jargon like “purse seines” and “weirs” is necessary to understand how a fish is sourced. Must also be typed into the filter if you wish to search for that specific method used. | 4 |
+|3. User Control and Freedom | Good: multiple intuitive ways to uncheck a box, such as clicking it again or clicking the x when it shows up | 0 |
+| 4. Consistency and Standards | Good: Color red to signify bad, yellow okay, and green good | 0 |
+| 5. Error Prevention  | Bad: words have to be typed in correctly for relevant data to populate, there are no search suggestions to help users with words that are spelled similarly | 5 |
+| 6. Recognition Rather than Recall | Bad: Filter has a search bar for different categories like body of water, but doesn’t give a complete list of what those bodies of water could be, just recommends the most popular searches <br> Bad: Difficult to get to landing page, only possible by clicking the logo, not under any menu <br> Bad:The same menu can appear with slightly different names, making navigation confusing <br> Good: Shows image of the fish to make them more easily recognizable | 5 |
+| 7. Flexibility and Efficiency of Use | Good: Filter option available for users who want to add multiple specific variables to their search | 0 |
+| 8. Aesthetic and Minimalist Design:  | Bad: One type of fish can be listed multiple times if for example they are sourced from different places, however you have to find this difference in the info section which has a very small font<br> Good: Level of sustainability color coded | 4 |
+| 9. Help Users with Errors | Good: No results for a search are clearly stated in a large bold font instead of the page just being blank. There is also a message that says to try searching with different terms | 0 |
+| 10. Help and Documentation | Good: some words/phrases within the text are clearly underlined and in blue to indicate that it is a link. When pressed a new page with more in depth information pops up. <br> Bad: These links could be listed somewhere else too to make them easier to find | 2 |
 
 ## Second Website
 ### Marine Stewardship Council  https://www.msc.org/en-us
